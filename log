@@ -1,0 +1,197 @@
+--2018-05-20 09:19:32--  https://www.fascia-anatomie-theatre.com/
+Resolving www.fascia-anatomie-theatre.com (www.fascia-anatomie-theatre.com)... 54.165.247.131, 54.88.77.27, 54.84.176.47, ...
+Connecting to www.fascia-anatomie-theatre.com (www.fascia-anatomie-theatre.com)|54.165.247.131|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.fascia-anatomie-theatre.com/index.html’
+
+     0K .......... .......... .......... .......... .......... 28.4K
+    50K .......... .......... .......... .......... .......... 32.1K
+   100K .......... .......... .......... .......... .......... 23.6K
+   150K .......... .......... .......... .......... .......... 95.8K
+   200K .......... .......... .......... .......... ..........  397K
+   250K .......... .......... .......... .......... ..........  372K
+   300K .......... .......... .......... .......... ..........  333K
+   350K .......... .......... .......... .......... ..........  250K
+   400K .......... .......... .......... .......... ..........  320K
+   450K .......... .......... .......... .......... ..........  338K
+   500K .......... .......... .......... .......... ..........  391K
+   550K .......... .......... .......... .......... ..........  556K
+   600K .......... .......... .......... ..                     863K=7.1s
+
+Last-modified header missing -- time-stamps turned off.
+2018-05-20 09:19:47 (88.7 KB/s) - ‘www.fascia-anatomie-theatre.com/index.html’ saved [647787]
+
+Loading robots.txt; please ignore errors.
+--2018-05-20 09:19:49--  https://www.fascia-anatomie-theatre.com/robots.txt
+Reusing existing connection to www.fascia-anatomie-theatre.com:443.
+HTTP request sent, awaiting response... 200 OK
+Cookie coming from www.fascia-anatomie-theatre.com attempted to set domain to wix.com
+Cookie coming from www.fascia-anatomie-theatre.com attempted to set domain to wix.com
+Cookie coming from www.fascia-anatomie-theatre.com attempted to set domain to wix.com
+Length: 505 [text/plain]
+Saving to: ‘www.fascia-anatomie-theatre.com/robots.txt’
+
+     0K                                                       100% 12.0M=0s
+
+2018-05-20 09:19:49 (12.0 MB/s) - ‘www.fascia-anatomie-theatre.com/robots.txt’ saved [505/505]
+
+--2018-05-20 09:19:51--  https://www.fascia-anatomie-theatre.com/acceuil
+Reusing existing connection to www.fascia-anatomie-theatre.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.fascia-anatomie-theatre.com/acceuil.html’
+
+     0K .......... .......... .......... .......... .......... 77.9K
+    50K .......... .......... .......... .......... .......... 58.1K
+   100K .......... .......... .......... .......... .......... 54.7K
+   150K .......... .......... .......... .......... ..........  236K
+   200K .......... .......... .......... .......... ..........  203K
+   250K .......... .......... .......... .......... ..........  211K
+   300K .......... .......... .......... .......... ..........  266K
+   350K .......... .......... .......... .......... ..........  343K
+   400K .......... .......... .......... .......... ..........  252K
+   450K .......... .......... .......... .......... ..........  258K
+   500K .......... .......... .......... .......... ..........  238K
+   550K .......... .......... .......... .......... ..........  148K
+   600K .......... .......... .......... .......... ..........  312K
+   650K .......... .......... .......... .......... .           227K=4.7s
+
+Last-modified header missing -- time-stamps turned off.
+2018-05-20 09:19:58 (146 KB/s) - ‘www.fascia-anatomie-theatre.com/acceuil.html’ saved [708467]
+
+--2018-05-20 09:20:00--  https://www.fascia-anatomie-theatre.com/fasciatherapie
+Reusing existing connection to www.fascia-anatomie-theatre.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.fascia-anatomie-theatre.com/fasciatherapie.html’
+
+     0K .......... .......... .......... .......... ..........  145K
+    50K .......... .......... .......... .......... ..........  488K
+   100K .......... .......... .......... .......... ..........  612K
+   150K .......... .......... .......... .......... ..........  672K
+   200K .......... .......... .......... .......... ..........  803K
+   250K .......... .......... .......... .......... ..........  789K
+   300K .......... .......... .......... .......... ..........  733K
+   350K .......... .......... .......... .......... ..........  644K
+   400K .......... .......... .......... .......... ..........  781K
+   450K .......... .......... .......... .......... .......... 1.41M
+   500K .......... .......... .......... .......... ..........  111M
+   550K .......... .......... .......... .......... .......... 1.19M
+   600K .......... .......... .......... .......... ..........  654K
+   650K .......... .......... .......... .......... .......... 1.12M
+   700K .......... .......... .......... .......... ..........  502K
+   750K .......... .......... .......... .......... ..........  280K
+   800K .......... .......... .......... .......... ..........  161K
+   850K .......... ..                                           254K=1.8s
+
+Last-modified header missing -- time-stamps turned off.
+2018-05-20 09:20:04 (487 KB/s) - ‘www.fascia-anatomie-theatre.com/fasciatherapie.html’ saved [882837]
+
+--2018-05-20 09:20:06--  https://www.fascia-anatomie-theatre.com/anatomie
+Reusing existing connection to www.fascia-anatomie-theatre.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.fascia-anatomie-theatre.com/anatomie.html’
+
+     0K .......... .......... .......... .......... ..........  164K
+    50K .......... .......... .......... .......... ..........  743K
+   100K .......... .......... .......... .......... ..........  625K
+   150K .......... .......... .......... .......... ..........  658K
+   200K .......... .......... .......... .......... .......... 1009K
+   250K .......... .......... .......... .......... ..........  741K
+   300K .......... .......... .......... .......... ..........  802K
+   350K .......... .......... .......... .......... ..........  547K
+   400K .......... .......... .......... .......... ..........  665K
+   450K .......... .......... .......... .......... ..........  396K
+   500K .......... .......... .......... .......... ..........  533K
+   550K .......... .......... .......... .......... ..........  736K
+   600K .......... .......... .......... .......... ..........  733K
+   650K .......... .......... .......... ....                   805K=1.3s
+
+Last-modified header missing -- time-stamps turned off.
+2018-05-20 09:20:07 (538 KB/s) - ‘www.fascia-anatomie-theatre.com/anatomie.html’ saved [700657]
+
+--2018-05-20 09:20:09--  https://www.fascia-anatomie-theatre.com/theatre
+Reusing existing connection to www.fascia-anatomie-theatre.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.fascia-anatomie-theatre.com/theatre.html’
+
+     0K .......... .......... .......... .......... ..........  123K
+    50K .......... .......... .......... .......... ..........  196K
+   100K .......... .......... .......... .......... ..........  288K
+   150K .......... .......... .......... .......... ..........  212K
+   200K .......... .......... .......... .......... ..........  237K
+   250K .......... .......... .......... .......... ..........  286K
+   300K .......... .......... .......... .......... ..........  280K
+   350K .......... .......... .......... .......... ..........  264K
+   400K .......... .......... .......... .......... ..........  269K
+   450K .......... .......... .......... .......... ..........  252K
+   500K .......... .......... .......... .......... ..........  391K
+   550K .......... .......... .......... .......... ..........  644K
+   600K .......... .......... .......... .......... ..........  445K
+   650K .......... .......... .......... .                      511K=2.6s
+
+Last-modified header missing -- time-stamps turned off.
+2018-05-20 09:20:12 (263 KB/s) - ‘www.fascia-anatomie-theatre.com/theatre.html’ saved [698278]
+
+--2018-05-20 09:20:14--  https://www.fascia-anatomie-theatre.com/contact
+Reusing existing connection to www.fascia-anatomie-theatre.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.fascia-anatomie-theatre.com/contact.html’
+
+     0K .......... .......... .......... .......... ..........  121K
+    50K .......... .......... .......... .......... ..........  249K
+   100K .......... .......... .......... .......... ..........  168K
+   150K .......... .......... .......... .......... ..........  180K
+   200K .......... .......... .......... .......... .......... 96.9K
+   250K .......... .......... .......... .......... .......... 55.9K
+   300K .......... .......... .......... .......... ..........  147K
+   350K .......... .......... .......... .......... ..........  260K
+   400K .......... .......... .......... .......... ..........  142K
+   450K .......... .......... .......... .......... ..........  718K
+   500K .......... .......... .......... .......... ..........  191K
+   550K .......... .......... .......... .......... ..........  260K
+   600K .......... .......... .......... .......... ..........  294K
+   650K .......... .                                            497K=4.2s
+
+Last-modified header missing -- time-stamps turned off.
+2018-05-20 09:20:19 (158 KB/s) - ‘www.fascia-anatomie-theatre.com/contact.html’ saved [677779]
+
+--2018-05-20 09:20:21--  https://www.fascia-anatomie-theatre.com/biographie
+Reusing existing connection to www.fascia-anatomie-theatre.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.fascia-anatomie-theatre.com/biographie.html’
+
+     0K .......... .......... .......... .......... .......... 33.9K
+    50K .......... .......... .......... .......... .......... 73.8K
+   100K .......... .......... .......... .......... ..........  328K
+   150K .......... .......... .......... .......... ..........  423K
+   200K .......... .......... .......... .......... ..........  438K
+   250K .......... .......... .......... .......... ..........  425K
+   300K .......... .......... .......... .......... ..........  558K
+   350K .......... .......... .......... .......... ..........  378K
+   400K .......... .......... .......... .......... ..........  567K
+   450K .......... .......... .......... .......... ..........  358K
+   500K .......... .......... .......... .......... ..........  328K
+   550K .......... .......... .......... .......... ..........  501K
+   600K .......... .......... .......... .......... ..........  439K
+   650K .......... .......... .......... .......... ....        490K=3.6s
+
+Last-modified header missing -- time-stamps turned off.
+2018-05-20 09:20:26 (195 KB/s) - ‘www.fascia-anatomie-theatre.com/biographie.html’ saved [710927]
+
+FINISHED --2018-05-20 09:20:26--
+Total wall clock time: 54s
+Downloaded: 8 files, 4.8M in 25s (194 KB/s)
+Converting www.fascia-anatomie-theatre.com/fasciatherapie.html... 5-945
+Converting www.fascia-anatomie-theatre.com/anatomie.html... 5-945
+Converting www.fascia-anatomie-theatre.com/theatre.html... 5-945
+Converting www.fascia-anatomie-theatre.com/contact.html... 5-945
+Converting www.fascia-anatomie-theatre.com/biographie.html... 5-945
+Converting www.fascia-anatomie-theatre.com/index.html... 1-945
+Converting www.fascia-anatomie-theatre.com/acceuil.html... 6-945
+Converted 7 files in 0.1 seconds.
